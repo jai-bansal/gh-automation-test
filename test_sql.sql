@@ -1,4 +1,4 @@
 SELECt col1,
     col2
 FROM table
-limit 3;
+limit 300000000;
