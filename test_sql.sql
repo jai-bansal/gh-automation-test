@@ -1,4 +1,1 @@
 
-SELECT *
-FROM table
-LIMIT 100;
