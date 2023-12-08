@@ -1,4 +1,4 @@
 
 SELECT *
 FROM table
-LIMIT 10000;
+LIMIT 90000;
