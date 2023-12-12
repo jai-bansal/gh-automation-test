@@ -4,5 +4,3 @@ FROM table
 LIMIT 990000;
 
 SELECT * FROM table2
-
-SELECT
