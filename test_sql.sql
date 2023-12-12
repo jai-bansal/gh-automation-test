@@ -8,5 +8,3 @@ SELECT * FROM table2
 SELECT
 
 SELECT
-
-TEST
