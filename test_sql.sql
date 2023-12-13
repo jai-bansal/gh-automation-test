@@ -2,3 +2,5 @@
 SELECT *
 FROM table
 LIMIT 990000;
+
+SELECT
