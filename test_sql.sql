@@ -1,7 +1,7 @@
 
 SELECT *
 FROM table
-LIMIT 990000;
+LIMIT 1;
 
 SELECT
 
