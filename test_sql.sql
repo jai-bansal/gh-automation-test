@@ -1,7 +1,7 @@
 
 SELECT *
 FROM table
-LIMIT 5;
+LIMIT 15;
 
 SELECT
 
