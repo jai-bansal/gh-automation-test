@@ -1,4 +1,4 @@
 
 SELECT *
 FROM table
-LIMIT 99
+LIMIT 999
