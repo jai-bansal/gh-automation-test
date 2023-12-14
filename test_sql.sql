@@ -1,8 +1,4 @@
 
 SELECT *
 FROM table
-LIMIT 15;
-
-SELECT
-
-SELECT
+LIMIT 1
